@@ -3,6 +3,8 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  ### SQL Dataset Analysis
+  - [Olympics Athlete EDA Analyis](https://github.com/OlanrewajuDatanalyst/Olympics-Athlete-Events-EDA-Analysis)
 
 <h2>📺 Certifications</h2>
 
