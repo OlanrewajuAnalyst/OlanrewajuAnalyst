@@ -4,7 +4,8 @@
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
   ### SQL Dataset Analysis
-  - [Olympics Athlete EDA Analyis](https://github.com/OlanrewajuDatanalyst/Olympics-Athlete-Events-EDA-Analysis)
+  - [Olympics Athlete EDA Analysis](https://github.com/OlanrewajuDatanalyst/Olympics-Athlete-Events-EDA-Analysis)
+The analysis is to explore and address specific questions aimed at understanding key developments and trends that have transpired throughout the years within the modern Olympic Games, encompassing all Games from Athens 1896 to Rio 2016. 
 
 <h2>📺 Certifications</h2>
 
