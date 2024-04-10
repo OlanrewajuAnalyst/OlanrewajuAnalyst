@@ -4,7 +4,7 @@
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
   ### SQL Dataset Analysis
-  - [Nashville Housing Analysis - Real Estate](https://github.com/OlanrewajuDatanalyst/Nashville-Housing-Analysis-Using-SQL/blob/main/README.md)
+  - [Nashville Housing Analysis - Real Estate](https://github.com/OlanrewajuDatanalyst/Nashville-Housing-Analysis-Using-SQL.git)
   - [Olympics Athlete EDA Analysis](https://github.com/OlanrewajuDatanalyst/Olympics-Athlete-Events-EDA-Analysis)
 
 The aim of this analysis is to explore and address specific inquiries with the goal of significant developments and trends that have unfolded across the modern Olympic Games, spanning from Athens 1896 to Rio 2016.
