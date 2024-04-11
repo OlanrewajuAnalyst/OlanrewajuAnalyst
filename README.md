@@ -5,6 +5,7 @@
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
     
   ### SQL Project Analysis
+  Using - Advamce join, Window function, Aggregration, Crosstab
   - [Nashville Housing Analysis - Real Estate](https://github.com/OlanrewajuDatanalyst/Nashville-Housing-Analysis-Using-SQL.git)
 
 In this project, I conducted data cleaning, querying, and analysis on nashville real estate database utilizing SQL. The primary objective is to look into the dynamics of the market, aiming to understand key trends, pinpoint factors influencing market fluctuations, and provide strategic recommendations to stakeholders.
