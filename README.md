@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a Data Analyst || Consumer Insight || Business Analyst
 
-👀 I'm key into data Analytics make data-driven decisions to achieve better results.
+👀 I'm key into data analytics to make informed decisions to achieve better results and drive business growth.
 
 I currently use Excel, Power BI and SQL (T-SQL).
 
