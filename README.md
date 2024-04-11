@@ -3,12 +3,13 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  ### SQL Dataset Analysis
+    
+  ### SQL Project Analysis
   - [Nashville Housing Analysis - Real Estate](https://github.com/OlanrewajuDatanalyst/Nashville-Housing-Analysis-Using-SQL.git)
 
 In this project, I conducted data cleaning, querying, and analysis on nashville real estate database utilizing SQL. The primary objective is to look into the dynamics of the market, aiming to understand key trends, pinpoint factors influencing market fluctuations, and provide strategic recommendations to stakeholders.
 
----
+
   - [Olympics Athlete EDA Analysis](https://github.com/OlanrewajuDatanalyst/Olympics-Athlete-Events-EDA-Analysis)
 
 This dataset encompasses the modern Olympic Games, spanning from Athens 1896 to Rio 2016. I useed SQL to query and analyze the dataset primarily to investigate and address specific inquiries, aiming to uncover significant developments and trends that have transpired over the years.
