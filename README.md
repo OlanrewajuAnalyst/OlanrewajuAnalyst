@@ -11,7 +11,7 @@ In this project, I conducted data cleaning, querying, and analysis on nashville 
 ---
   - [Olympics Athlete EDA Analysis](https://github.com/OlanrewajuDatanalyst/Olympics-Athlete-Events-EDA-Analysis)
 
-The aim of this analysis is to explore and address specific inquiries with the goal of significant developments and trends that have unfolded across the modern Olympic Games, spanning from Athens 1896 to Rio 2016.
+This dataset encompasses the modern Olympic Games, spanning from Athens 1896 to Rio 2016. I useed SQL to query and analyze the dataset primarily to investigate and address specific inquiries, aiming to uncover significant developments and trends that have transpired over the years.
 
 <h2>📺 Certifications</h2>
 
