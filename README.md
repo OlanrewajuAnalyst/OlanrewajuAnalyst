@@ -6,8 +6,9 @@
   ### SQL Dataset Analysis
   - [Nashville Housing Analysis - Real Estate](https://github.com/OlanrewajuDatanalyst/Nashville-Housing-Analysis-Using-SQL.git)
 
-In this project, I conducted data cleaning, querying, and analysis on nashville real estate database utilizing SQL. The primary objective is to look into the dynamics of the market, aiming to understand key trends, pinpoint factors influencing market fluctuations, and offer strategic guidance to stakeholders based on the insights gleaned.
+In this project, I conducted data cleaning, querying, and analysis on nashville real estate database utilizing SQL. The primary objective is to look into the dynamics of the market, aiming to understand key trends, pinpoint factors influencing market fluctuations, and provide strategic recommendations to stakeholders.
 
+---
   - [Olympics Athlete EDA Analysis](https://github.com/OlanrewajuDatanalyst/Olympics-Athlete-Events-EDA-Analysis)
 
 The aim of this analysis is to explore and address specific inquiries with the goal of significant developments and trends that have unfolded across the modern Olympic Games, spanning from Athens 1896 to Rio 2016.
