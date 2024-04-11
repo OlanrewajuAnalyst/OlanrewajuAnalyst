@@ -1,11 +1,18 @@
 <h1>Hi, I'm Olanrewaju! </h1>
 
+## 🚀 About Me
+I'm a Data Analyst || Consumer Insight || Business Analyst
+
+👀 I'm key into data Analytics make data-driven decisions to achieve better results.
+
+I currently use Excel, Power BI and SQL (T-SQL).
+
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
     
   ### SQL Project Analysis
-  Using - Advamce join, Window function, Aggregration, Crosstab
+  Using - Advance joins, Window function, Aggregration, Crosstab
   - [Nashville Housing Analysis - Real Estate](https://github.com/OlanrewajuDatanalyst/Nashville-Housing-Analysis-Using-SQL.git)
 
 In this project, I conducted data cleaning, querying, and analysis on nashville real estate database utilizing SQL. The primary objective is to look into the dynamics of the market, aiming to understand key trends, pinpoint factors influencing market fluctuations, and provide strategic recommendations to stakeholders.
