@@ -9,10 +9,13 @@ I currently use Excel, Power BI and SQL.
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  ### POWERBI Project Analysis (DAX, Power Query)
+
+  - [Customer Satisfaction Analysis](https://github.com/OlanrewajuDatanalyst/Customer-Satisfaction-Survey-Analysis.git)
+
+I utilized PowerBI, leveraging DAX functions and Power Query for data analysis of the airline customer satisfaction survey. The aim is to access and understand customers' experiences with the services offered at each level, and gauging their likelihood to recommend the airline to friends and family.
     
-  ### SQL Project Analysis
-  Using - Advance joins, Window function, Aggregration, Crosstab
+  ### SQL Project Analysis (Advance joins, Window function, Aggregration, Crosstab)
   - [Nashville Housing Analysis - Real Estate](https://github.com/OlanrewajuDatanalyst/Nashville-Housing-Analysis-Using-SQL.git)
 
 In this project, I conducted data cleaning, querying, and analysis on nashville real estate database utilizing SQL. The primary objective is to look into the dynamics of the market, aiming to understand key trends, pinpoint factors influencing market fluctuations, and provide strategic recommendations to stakeholders.
