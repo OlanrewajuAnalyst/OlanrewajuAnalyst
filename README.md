@@ -5,9 +5,15 @@ I'm a Data Analyst || Consumer Insight || Business Analyst
 
 👀 I'm key into data analytics to make informed decisions to achieve better results and drive business growth.
 
-I currently use Excel, Power BI and SQL.
+I currently use Excel, Power BI SQL and Python.
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
+
+  ### Python Project Analysis (DAX, Power Query)
+
+  - [Correlation And Regression Analysis](https://github.com/OlanrewajuDatanalyst/Regression-and-Correlation-Analysis-Using-Python-Libraries.git)
+
+I used Python libraries to analyze the primary factors influencing gross revenue in the movie industry while conducting correlation and regression analyses using tools such as pandas, numpy, sklearn, and scipy for data preprocessing, and leveraging matplotlib and seaborn for visualization purposes.
 
   ### POWERBI Project Analysis (DAX, Power Query)
 
