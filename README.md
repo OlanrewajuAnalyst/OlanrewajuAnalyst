@@ -11,7 +11,7 @@ I currently use Excel, Power BI SQL and Python.
 
   ### Python Project Analysis (pandas, numpy, scipy, matplotlib, seaborn)
 
-  - [Correlation And Regression Analysis](https://github.com/OlanrewajuDatanalyst/Regression-and-Correlation-Analysis-Using-Python-Libraries.git)
+  - [Correlation And Regression Analysis - Drivers of Gross Revenue in Movie Industry](https://github.com/OlanrewajuDatanalyst/Regression-and-Correlation-Analysis-Using-Python-Libraries.git)
 
 I used Python libraries to analyze the primary factors influencing gross revenue in the movie industry while conducting correlation and regression analyses using tools such as pandas, numpy, sklearn, and scipy for data preprocessing, and leveraging matplotlib and seaborn for visualization purposes.
 
