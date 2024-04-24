@@ -13,7 +13,7 @@ I currently use Excel, Power BI and SQL.
 
   - [Customer Satisfaction Analysis](https://github.com/OlanrewajuDatanalyst/Customer-Satisfaction-Survey-Analysis.git)
 
-I utilized PowerBI, leveraging DAX functions and Power Query for data analysis of the airline customer satisfaction survey. The aim is to access and understand customers' experiences with the services offered at each level, and gauging their likelihood to recommend the airline to friends and family.
+I utilized PowerBI, leveraging Power Query for data pre-processing and DAX functions for data analysis of the airline customer satisfaction survey. The aim is to access and understand customers' experiences with the services offered at each level, and gauging their likelihood to recommend the airline to friends and family.
     
   ### SQL Project Analysis (Advance joins, Window function, Aggregration, Crosstab)
   - [Nashville Housing Analysis - Real Estate](https://github.com/OlanrewajuDatanalyst/Nashville-Housing-Analysis-Using-SQL.git)
