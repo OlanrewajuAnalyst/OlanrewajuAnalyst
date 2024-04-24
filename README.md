@@ -9,7 +9,7 @@ I currently use Excel, Power BI SQL and Python.
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-  ### Python Project Analysis (DAX, Power Query)
+  ### Python Project Analysis (pandas, numpy, scipy, matplotlib, seaborn)
 
   - [Correlation And Regression Analysis](https://github.com/OlanrewajuDatanalyst/Regression-and-Correlation-Analysis-Using-Python-Libraries.git)
 
