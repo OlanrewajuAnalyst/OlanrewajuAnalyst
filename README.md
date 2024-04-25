@@ -33,11 +33,7 @@ This dataset encompasses the modern Olympic Games, spanning from Athens 1896 to 
 
 <h2>📺 Certifications</h2>
 
-- [SQL for Data Analysis](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [SQL for Data Analysis](https://www.linkedin.com/learning/certificates/f06d79bc0c756170c2c03e791fb2b87cc12f023168435bcba7106d0873eb70cb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Blw2vDeYZQseCp%2FApvzC7og%3D%3D)
 
 <h2> 🤳 Connect with me:</h2>
 
